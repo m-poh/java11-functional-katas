@@ -8,6 +8,13 @@ Statements from the previous adjustment:
 "Some Katas for functional programming in Java 8 for a coding dojo"  
 "Just read the instructions in the Kata and try to finish them. You can also use TDD if you want - there are dummy tests for all Katas."
 
+https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html  
+https://docs.oracle.com/javase/8/docs/api/java/util/stream/package-summary.html  
+https://www.baeldung.com/java-8-streams  
+https://github.com/poetix/protonpack  
+https://www.baeldung.com/java-protonpack  
+https://www.jrebel.com/blog/java-streams-cheat-sheet
+
 Katas
 -----
 
